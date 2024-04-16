@@ -1,6 +1,6 @@
 # TeamTrackerCLI
 ## Description
-This Employee Management System is a command-line application designed to help business owners view and manage departments, roles, and employees within their company. Built using Node.js, Inquirer, and PostgreSQL, this application offers a robust solution for organizing and planning business operations.
+This TeamTrackerCLI is a command-line application for Employee Management System.It is designed to help business owners view and manage departments, roles, and employees within their company. Built using Node.js, Inquirer, and PostgreSQL, this application offers a robust solution for organizing and planning business operations.
 
 ## Features
 - View All Departments: Display a formatted table showing department names and IDs.

@@ -23,3 +23,11 @@ This TeamTrackerCLI is a command-line application for Employee Management System
 Ensure PostgreSQL is installed and running on your system.
 Create a new database named employee_db.
 Import the provided SQL schema and seed data
+- Configure your database connection:
+- Update the PostgreSQL connection settings in server.js to match database configuration:
+- const pool = new Pool({
+  user: 'yourUsername',
+  host: 'localhost',
+  database: 'employee_db',
+  password: 'yourPassword',
+});

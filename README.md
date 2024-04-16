@@ -37,6 +37,9 @@ To run the application, navigate to the project directory in your terminal and r
 - node server.js
 - Follow the on-screen prompts to manage your company's employee database.
 
+## video walkthrough
+https://drive.google.com/file/d/1DKnSoxndv0QP-XX3AOTRfpXAWar4Rltz/view
+
 ## License
 This project is licensed under the MIT License
 

@@ -31,3 +31,14 @@ Import the provided SQL schema and seed data
   database: 'employee_db',
   password: 'yourPassword',
 });
+
+## Usage
+To run the application, navigate to the project directory in your terminal and run:
+- node server.js
+- Follow the on-screen prompts to manage your company's employee database.
+
+## License
+This project is licensed under the MIT License
+
+#### Start managing your company’s workforce today—effortlessly and efficiently!
+

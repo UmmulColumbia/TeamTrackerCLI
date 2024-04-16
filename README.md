@@ -46,6 +46,9 @@ https://drive.google.com/file/d/1DKnSoxndv0QP-XX3AOTRfpXAWar4Rltz/view
 ![image](https://github.com/UmmulColumbia/TeamTrackerCLI/assets/156148729/19e133a8-c354-4531-8eeb-38636b81051e)
 ![image](https://github.com/UmmulColumbia/TeamTrackerCLI/assets/156148729/a3d432e8-c07b-400a-9a0e-2e02d654242a)
 
+## Credit
+This project was created by Ummul Mukta to demonstrate skills to build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and PostgreSQL.
+
 
 ## License
 This project is licensed under the MIT License

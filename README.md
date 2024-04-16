@@ -13,9 +13,9 @@ This TeamTrackerCLI is a command-line application for Employee Management System
 
 ## Installation
 ## Prerequisites
-Node.js
-PostgreSQL
-npm (Node Package Manager)
+- Node.js
+- PostgreSQL
+- npm (Node Package Manager)
 ## Setting Up the Project
 - Clone the repository
 - Install dependencies
